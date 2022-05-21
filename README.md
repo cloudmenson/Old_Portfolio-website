@@ -2,10 +2,13 @@
 
 `Libraries:`
 - Email Js
-- Fort Awesome: free-bands-svg-icons
-- Fort Awesome: free solid svg icons
-- Fort Awesome: react fontawesome
+- FortAwesome: free-bands-svg-icons
+- FortAwesome: free-solid-svg-icons
+- FortAwesome: react-fontawesome
 - Animate.css
+- Gsap-trial
+- Loaders.css
+- React-leaflet
 
 # Getting Started
 
