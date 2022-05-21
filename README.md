@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-`Libraries:`
+`Components:`
 - Email Js
 - FortAwesome: free-bands-svg-icons
 - FortAwesome: free-solid-svg-icons
