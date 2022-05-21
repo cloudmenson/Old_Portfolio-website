@@ -1,6 +1,8 @@
 # Description
 
-App to view user photos with react-router (JSON Placeholder API)
+Personal Portfolio Website
+
+`Libraries:`
 
 # Getting Started
 
