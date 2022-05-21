@@ -6,9 +6,12 @@
 - FortAwesome: free-solid-svg-icons
 - FortAwesome: react-fontawesome
 - Animate.css
-- Gsap-trial
 - Loaders.css
+- Gsap-trial
+- React-loaders
 - React-leaflet
+- React-router-dom
+- Sass
 
 # Getting Started
 
