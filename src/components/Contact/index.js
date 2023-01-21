@@ -88,7 +88,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          Hrytsenko Daniel,
+          Hrytsenko Danylo,
           <br />
           Ukraine,
           <br />
